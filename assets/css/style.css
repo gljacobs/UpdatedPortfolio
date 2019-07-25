@@ -248,3 +248,8 @@ input[type=submit] {
   float: right;
   padding-right: 5px;
 }
+
+#port .row {
+  display: flex;
+  justify-content: center;
+}
